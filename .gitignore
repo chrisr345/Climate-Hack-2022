@@ -1,0 +1,6 @@
+2_Conv3D/__pycache__/
+*.pt
+bin/
+2_Conv3D/Conv3D.py~
+2_Conv3D/__pycache__/dataset.cpython-39.pyc
+2_Conv3D/submission/__pycache__/model.cpython-39.pyc
